@@ -1,4 +1,4 @@
-# Instagram-WebPage-Continue-Clone
+# CloneInstagram PageContinue
 
 ### Projeto base: Recriando a Página Inicial do Instagram
 Clone da página de continuação de usuário do Instagram
