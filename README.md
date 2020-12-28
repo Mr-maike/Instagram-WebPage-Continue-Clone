@@ -10,6 +10,4 @@
 * Implementações e mudanças no arquivo CSS;
 
 ##### :construction:Gostaria de contribuir?
-Fico feliz, mande mensagem no meu Discord: [マイクく#9677][discord]
-[discord]:
-https://discord.com/
+Fico feliz, mande mensagem no meu Discord: [マイクく#9677](https://discord.com/)
