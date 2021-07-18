@@ -57,15 +57,14 @@ body
 
 span .img
 {
-    margin-top: -168px ;
-    margin-left: -240px;
+    margin-top: -168.2px ;
+    margin-left: -239px;
     position: absolute;
     opacity: 1;
     transition: 0.4s ease-in;
-
-    height: 36vh;
-    
+    height: 36vh;  
 }
+
 
 .img.fader{
     
@@ -190,6 +189,7 @@ span .img
         opacity: 1;
     }
 }
+
 
 @media (max-width: 1024px)
 {
