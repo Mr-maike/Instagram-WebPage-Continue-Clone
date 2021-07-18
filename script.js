@@ -14,6 +14,5 @@ function imageDisplay()
           x = 0;
         }
         
-        images[x].style.display = "block";
-      
+        images[x].style.display = "block";    
 }
